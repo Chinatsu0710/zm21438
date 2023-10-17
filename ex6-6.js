@@ -11,15 +11,15 @@ function hanako66(){
 alert('花子が来た');
 }
 
-var who66 ='world';
-function sayhello66(){
-alert('Hello, ' + who66 + '!');
+var who67 ='world';
+function sayhello67(){
+alert('Hello, ' + who67 + '!');
 }
 
-function taro66(){
-  who66='太郎';
+function taro67(){
+  who67='太郎';
 }
 
-function hanako66(){
-  who66='花子';
+function hanako67(){
+  who67='花子';
 }
