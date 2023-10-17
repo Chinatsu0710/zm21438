@@ -3,13 +3,10 @@ function sayhello66(){
 alert('Hello, ' + who66 + '!');
 }
 
-var who66 ='が来た!';
 function taro66(){
-alert('太郎 ' + who66 + '!');
+alert('太郎が来た ' + who66 + '!');
 }
 
-
-var who66 ='が来た!';
 function hanako66(){
-alert('花子 ' + who66 + '!');
+alert('花子が来た ' + who66 + '!');
 }
