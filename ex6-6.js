@@ -1,7 +1,7 @@
-var who66 ='world';
-function sayhello66(){
-alert('Hello, ' + who66 + '!');
-}
+/*var who67 ='world';
+function sayhello67(){
+alert('Hello, ' + who67 + '!');
+}*/
 
 function taro66(){
 alert('太郎が来た');
