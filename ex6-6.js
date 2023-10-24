@@ -1,5 +1,5 @@
 function saygoodbye61(){alert('goodbye');}
-var who66 ='world';
+var who65 ='world';
 
 function sayhello65(){alert('Hello,'+who65+'!');}
 function taro65(){alert('太郎が来た!');}
