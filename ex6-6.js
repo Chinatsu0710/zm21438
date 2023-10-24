@@ -2,7 +2,7 @@
 function saygoodbye61(){alert('Goodbye.');}
 var who66='world';
 
-function sayhello66(){alert('Hello,'+who65+'!');}
+function sayhello66(){alert('Hello,'+who66+'!');}
 /*function taro65(){who65='太郎';}
 function hanako65(){who65='花子';}*/
 
