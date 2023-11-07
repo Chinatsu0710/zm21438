@@ -1,11 +1,11 @@
 function sayhello68(){
-  alert('Hello,'+ document.getElementByld('who68').innerHTML + '!');
+  alert('Hello,'+ document.getElementByid('who68').innerHTML + '!');
 }
     function taro68(){
-document.getElementByld('who68').innerHTML + '太郎';}
+document.getElementByid('who68').innerHTML + '太郎';}
 
 function hanoko68(){
-document.getElementByld('who68').innerHTML + '花子';
+document.getElementByid('who68').innerHTML + '花子';
 }
-function gazo688(){document.getElementByld('who688').innerHTML='<img src"image/hana.gif" alt="オン">';}
+function gazo688(){document.getElementByid('who688').innerHTML=<img src"./image/hana.gif" alt="オン">;}
 
