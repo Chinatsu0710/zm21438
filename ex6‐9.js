@@ -1,2 +1,3 @@
 function txtchange1(){
-  document.getElementByid('txt1').innerHTML='ナンバーワン!';}
+  document.getElementByld('txt1').innerHTML='ナンバーワン!';
+}
